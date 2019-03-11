@@ -1,4 +1,4 @@
-track type=wiggle_0 maxHeightPixels=60 name="Epolauridin" autoScale=off viewLimits=0.0:500.0 visibility=full
+track type=wiggle_0 maxHeightPixels=60 name="Eupolauridin" autoScale=off viewLimits=0.0:500.0 visibility=full
 variableStep chrom=chrI
      40 1
      56 2
