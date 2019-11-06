@@ -1,4 +1,4 @@
-track type=wiggle_0 maxHeightPixels=60 name="Soraphen" autoScale=off viewLimits=0.0:500.0 visibility=full
+track type=wiggle_0 maxHeightPixels=60 name="Soraphen A" autoScale=off viewLimits=0.0:500.0 visibility=full
 variableStep chrom=chrI
      55 5
      76 7
